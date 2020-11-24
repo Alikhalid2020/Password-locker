@@ -20,4 +20,4 @@ To fix a bug or enhance an existing module, follow these steps:
 ## built with
    -PYTHON
 ## Author
-- Khalid Ali Goso
+- Khalid Ali Gosor
