@@ -20,6 +20,6 @@ Redirects the user on some instructions on how to guide through the application 
 # Technologies used:
  Python3.6
 # Author
-KHALID ALI GOSOR
+KHALID ALI GOSO
 # Licence
 MIT
