@@ -119,7 +119,7 @@ def main():
 
                 while True:
                     print("--"*50)
-                    print('Our short codes: \n cc-Create a Credential \n sc-Show Credentials \n fc- Find a Credential  \n ex-Exit')
+                    print('Our short codes: \n cc-Create a Credential \n sc-Show Credentials \n fc- Find a Credential  \n da-delete a credential   \n ex-Exit')
                     print('\n')
                     short_code = input('Enter a choice: ').lower()
                     print("-"*10)
